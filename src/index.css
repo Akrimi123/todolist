@@ -5,7 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/02976395-699f-45a6-835d-729eaaff9a79/d1kz7ty-64cc8728-6202-4cec-ac75-a3b9700213b4.png/v1/fill/w_600,h_375,q_80,strp/to_do_list_wallpaper_by_nethingbutordinary_d1kz7ty-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzc1IiwicGF0aCI6IlwvZlwvMDI5NzYzOTUtNjk5Zi00NWE2LTgzNWQtNzI5ZWFhZmY5YTc5XC9kMWt6N3R5LTY0Y2M4NzI4LTYyMDItNGNlYy1hYzc1LWEzYjk3MDAyMTNiNC5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.7IJSVYsk7kp8SPg5vlnRAfIwMQy_mUm40xWJmDaUinc);
+  background-repeat: no-repeat;
+  background-size:auto;
 }
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
